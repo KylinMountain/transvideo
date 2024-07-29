@@ -1,0 +1,12 @@
+pydup==0.25.1
+openai==1.37.1
+pysrt==1.1.2
+m3u8==5.1.0
+chattts~=0.0.0
+numpy~=1.26.4
+pybase16384~=0.3.7
+requests~=2.32.3
+torch~=2.4.0
+pydub~=0.25.1
+#install chattts from github source
+git+https://github.com/2noise/ChatTTS
